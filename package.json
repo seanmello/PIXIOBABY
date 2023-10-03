@@ -26,6 +26,7 @@
     "net": "^1.0.2",
     "next": "latest",
     "pixio-prodia": "^1.2.2",
+   "prodia.js": "^2.0.0",
     "postcss": "^8.4.24",
     "rate-limiter-flexible": "^2.4.1",
     "react": "^18.2.0",
