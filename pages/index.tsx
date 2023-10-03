@@ -241,7 +241,7 @@ export default function HomePage() {
     'portraitplus V1.0': 'portraitplus_V1.0.safetensors [1400e684]',
     'Realistic Vision v1.4': 'Realistic_Vision_V1.4-pruned-fp16.safetensors [8d21810b]',
     'Realistic Vision V4.0': 'Realistic_Vision_V4.0.safetensors [29a7afaa]',
-    'Realistic Vision V5.0': 'Realistic_Vision_V5.0.safetensors [614d1063]',
+    'Realistic Vision V5.0': 'anythingV5_PrtRE.safetensors [893e49b9]',
     'redshift diffusion V10': 'redshift_diffusion-V10.safetensors [1400e684]',
     'Rev Animated v122': 'revAnimated_v122.safetensors [3f4fefd9]',
     'SD 1.4': 'sdv1_4.ckpt [7460a6fa]',
